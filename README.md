@@ -22,4 +22,4 @@ From the dashboard, you can create new tweets, follow other users, and view your
 Overall, this Twitter clone provides a basic platform for users to engage with each other in a similar way to the original Twitter. Please note that this project is not intended for production use and is only meant for learning purposes.
 
 If you have any questions or issues, please feel free to reach out to the project creators, 
-![Avinash Kumar](https://github.com/Avinash1674)
+[Avinash Kumar](https://github.com/Avinash1674)
